@@ -48,17 +48,6 @@ img, picture {
     display: block;
 }
 
-/* Media Query */
-@media only screen and (max-width: 375px) {
-.cartao{
-    margin-left: 1.25rem;
-    margin-right: 1.25rem;
-    -webkit-box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.252);
-    -moz-box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.252);
-    box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.252);
-}
-}
-
 /* Estilização principal */
 body {
     display: flex;
@@ -248,3 +237,13 @@ body {
     transition: color 0.2s ease-in-out;
 }
 
+/* Media Query */
+@media only screen and (max-width: 375px) {
+    .cartao{
+        margin-left: 1.25rem;
+        margin-right: 1.25rem;
+        -webkit-box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.252);
+        -moz-box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.252);
+        box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.252);
+    }
+}
