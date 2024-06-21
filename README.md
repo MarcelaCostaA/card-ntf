@@ -17,7 +17,7 @@
 
 ## Link GitPage
 
-- GitPage: [Cartão de Componente NTF](https://github.com/MarcelaCostaA/card-ntf.git)
+- GitPage: [Cartão de Componente NTF](https://marcelacostaa.github.io/card-ntf/)
 
 
 ## Construído com 
