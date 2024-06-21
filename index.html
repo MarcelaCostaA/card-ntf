@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <title>Frontend Mentor | NFT preview card component</title>
+
+  <link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+
+  <main>
+
+    <div class="cartao" title="Cartão de Apresentação de NFT">
+
+      <!-- Imagem, Título e Apresentação -->
+      <div class="imagem">
+        <img src="images/image-equilibrium.jpg" alt="Imagem do NFT" class="imagem__principal">
+          <div class="imagem__view">
+            <img src="images/icon-view.svg" alt="" class="imagem__icone">
+          </div>
+        </img>
+      </div>
+      
+      <h1 class="titulo" title="Título do NFT">Equilibrium #3429</h1>
+      
+      <p class="paragrafo" title="Parágrafo de apresentação da coleção">Nossa coleção Equilibrium promove equilíbrio e calma.</p>
+      
+      <!-- Preço -->
+      <div class="valor-tempo">
+
+        <a href="#" class="valor-tempo__valor">
+          <img src="/images/icon-ethereum.svg" class="valor-tempo__icone-ethereum"><span class="valor-tempo__valor-ethereum">0.041 ETH</span></img>
+        </a>
+        
+        <!-- Tempo Restante -->
+        <a href="#" class="valor-tempo__tempo">
+          <img src="/images/icon-clock.svg" class="valor-tempo__icone-relogio"><span id="valor-tempo__dias">faltam 3 dias</span></img>
+        </a>
+        
+      </div>
+      
+      <!-- Dados do Autor -->
+      <a class="autoria">
+        <img src="images/image-avatar.png" alt="Avatar do autor da coleção" class="autoria__avatar"></img>
+        <p class="autoria__texto">Uma criação de <span class="autoria__link">Jules Wyvern</span></p>
+      </a>
+
+    </div>
+  </main>
+
+  <!-- Atribuição
+  <div class="atribuicao">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" title="Link do website frontend mentor">Frontend Mentor</a>. 
+    Coded by <a href="https://codepen.io/Marcela-Costa" target="_blank" title="Link de codepen da codificadora">Marcela Costa</a>.
+  </div>
+   -->
+
+</body>
+
+</html>
