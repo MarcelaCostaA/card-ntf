@@ -1,24 +1,23 @@
 # CARTÃO DE COMPONENTE NTF
 
-Esta é uma solução para o [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
 
 ## Conteúdo
 
 - [CARTÃO DE COMPONENTE NTF](#cartão-de-componente-ntf)
   - [Conteúdo](#conteúdo)
-  - [Screenshot](#screenshot)
-  - [Link](#link)
+  - [Imagem](#imagem)
+  - [Link GitPage](#link-gitpage)
   - [Construído com](#construído-com)
   - [Recursos](#recursos)
 
 
-## Screenshot
+## Imagem
 
 ![card-ntf.png](card-ntf.png)
 
-## Link
+## Link GitPage
 
-- GitHub: [Cartão de Componente NTF](https://github.com/MarcelaCostaA/card-ntf.git)
+- GitPage: [Cartão de Componente NTF](https://github.com/MarcelaCostaA/card-ntf.git)
 
 
 ## Construído com 
@@ -31,5 +30,6 @@ Esta é uma solução para o [NFT preview card component challenge on Frontend M
 - CSS GLOW GENERATOR (https://cssbud.com/css-generator/css-glow-generator/) - Para efeito de glow.
 - CSS SHADOW GENERATOR (https://www.cssmatic.com/box-shadow) - Para efeito de shadow box.
 
+Esta é uma solução para o [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
 
 
